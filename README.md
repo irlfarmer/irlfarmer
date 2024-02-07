@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irlfarmer
-- 👀 I’m interested in ... Ai / Programming / CyberSecurity
+- 👀 I’m interested in ... Ai / Programming / CyberSecurity / Blockchain
 - 🌱 I’m currently learning ... Blockchain Technology
 - 💞️ I’m looking to collaborate on ... Projects involving Python or Pentesting
 - 📫 How to reach me ... email contact@kola.bio
